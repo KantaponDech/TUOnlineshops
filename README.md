@@ -11,4 +11,4 @@
 7.จากนั้นเข้าสู่หน้า phpMyAdmin
 8.สร้าง Databases ชื่อว่า test_app
 9.จากนั้น Import ไฟล์ test_app ใน folder sql จากไฟล์ที่download จาก link
-10.กลับไปที่ xampp กดปุ่ม admin ที่ apache จะเปิดหน้า browser แก้ url จาก http://localhost/dashboard/เป็น http://localhost/toolsonlineshops/index.php
+10.กลับไปที่ xampp กดปุ่ม admin ที่ apache จะเปิดหน้า browser แก้ url จาก http://localhost/dashboard เป็น http://localhost/toolsonlineshops/index.php
